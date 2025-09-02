@@ -1,0 +1,1 @@
+This project uses convolutional neural networks (CNNs) to detect and classify diseases on apple leaves. The model is trained on labeled images of apple leaves and can analyze a new input image to predict whether it belongs to one of the predefined disease classes or is healthy.
